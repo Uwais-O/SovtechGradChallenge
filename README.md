@@ -14,18 +14,16 @@ You will need to have Node.js installed on your devide
 Create a new project folder.
 Open the command terminal with your project folder as the directory.
 
-1. Begin by typing the following command in the terminal
+1.Begin by typing the following command in the terminal
 
 ### `npx create-react-app [your-project-name]`
+   This will install react into your folder
 
-  This will install react into your folder
-
-2. Thereafter we will open react in the a code editor. I am using VSCode
+2.Thereafter we will open react in the a code editor. I am using VSCode
 
 ### `cd your-project-name`
 ### `code .`
-  
-  We have succesfully installed react js in our project folder
+   We have succesfully installed react js in our project folder
 
 # Installing react libraries
 I used react-router-dom and react-icons for the purposes of my webpage. To install it open
