@@ -18,14 +18,14 @@ Open the command terminal with your project folder as the directory.
 
 ### `npx create-react-app [your-project-name]`
 
-This will install react into your folder
+  This will install react into your folder
 
 2. Thereafter we will open react in the a code editor. I am using VSCode
 
 ### `cd your-project-name`
 ### `code .`
-
-We have succesfully installed react js in our project folder
+  
+  We have succesfully installed react js in our project folder
 
 # Installing react libraries
 I used react-router-dom and react-icons for the purposes of my webpage. To install it open
@@ -48,7 +48,7 @@ to deploy the app and thereafter customized the domain name.
 
 To create a build folder enter the following command in your terminal:
 
-###`npm run build`
+### `npm run build`
 
 This folder is the one uploaded to a hosting site.
 
