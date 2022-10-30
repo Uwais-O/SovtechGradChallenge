@@ -48,7 +48,7 @@ to deploy the app and thereafter customized the domain name.
 
 To create a build folder enter the following command in your terminal:
 
-###'npm run build'
+###`npm run build`
 
 This folder is the one uploaded to a hosting site.
 
