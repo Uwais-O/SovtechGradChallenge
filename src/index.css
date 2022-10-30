@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;800&display=swap");
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+body{
+  background: url(/src/assets/skillsbg.jpg)
+}
+
+
+h1, h4, p, 
+a{color: white;
+  text-decoration: none;
+}
+
+
+ul{
+  list-style-type: none ;
+}
+
+.btn {
+  padding: 12px 32px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  background: rgb(0, 132, 255);
+  border: 1px solid  rgb(0, 132, 255);
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.btn-light{
+  background: transparent;
+  color: white;
+  padding: 12px 32px;
+  font-size: 1rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  border: 1px solid  rgb(0, 132, 255);
+}
+
+.btn:hover{
+  background: rgba(255,255,255,0.3);
+  color: white;
+  transition: 0.3;
+}
